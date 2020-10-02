@@ -1,0 +1,45 @@
+webpackHotUpdate("main",{
+
+/***/ "./src/component/Viewstory.js":
+/*!************************************!*\
+  !*** ./src/component/Viewstory.js ***!
+  \************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _photos_aishwariya_jpg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./photos/aishwariya.jpg */ "./src/component/photos/aishwariya.jpg");
+/* harmony import */ var _photos_aishwariya_jpg__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_photos_aishwariya_jpg__WEBPACK_IMPORTED_MODULE_1__);
+var _jsxFileName = "C:\\Users\\newAdmin\\Desktop\\insta-clone\\insta-clone\\src\\component\\Viewstory.js";
+
+
+
+function Viewstory(props) {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "app__viweS",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 6,
+      columnNumber: 9
+    }
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: _photos_aishwariya_jpg__WEBPACK_IMPORTED_MODULE_1___default.a,
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 7,
+      columnNumber: 12
+    }
+  }), props.status.message, "fxbds");
+}
+
+/* harmony default export */ __webpack_exports__["default"] = (Viewstory);
+
+/***/ })
+
+})
+//# sourceMappingURL=main.a81774ceddd2a636c142.hot-update.js.map
